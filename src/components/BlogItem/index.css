@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.blog {
+  display: flex;
+  flex-direction: column;
+  border-bottom: solid 1px #9aa5b1;
+  font-family: 'roboto';
+}
+
+.blog-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.blog-title {
+  color: #12022f;
+}
+
+.blog-para {
+  color: #616e7c;
+}

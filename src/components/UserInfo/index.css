@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.profile {
+  font-family: 'roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  color: #12022f;
+}
+
+.para {
+  color: #616e7c;
+}
